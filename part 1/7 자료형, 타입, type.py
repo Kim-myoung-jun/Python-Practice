@@ -5,6 +5,9 @@ print(a, type(a))
 b = (1, 2, 3, 4, 5)
 print(b, type(b))
 
+b_1 = 1,2,3,4,5
+print(b_1, type(b_1) #>> tuple
+
 c = {1, 2, 3, 4, 5}
 print(c, type(c))
 
